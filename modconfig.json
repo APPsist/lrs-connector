@@ -1,0 +1,11 @@
+{
+  "webserver" : {
+    "port" : 7086,
+    "basePath": "/services/lrsconnect"
+  },
+  "lrs":{
+  	"endpoint": "http://localhost:1234/data/xAPI/",
+	"username": "f76aaf09f21be1f9e8bb1f634bc5b86db4a0603a",
+	"password": "7dc2379ee04bb6b064c98217aaff222c99aca798"
+  }
+} 
